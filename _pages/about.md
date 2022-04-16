@@ -13,6 +13,6 @@ I am a lecturer and researcher at the faculty of Information Technology (IT), Am
 My interests including small satellite, system engineering, autonomous system, and STEM education.
 
 
-For more info
+What's news?
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+- 2022-04-16: Started hosting the personal site on github.io
