@@ -1,7 +1,7 @@
 ---
 title: 'Can Cambodia Make Satellite?'
 date: 2016-05-19
-permalink: /posts/2016/05/blog-post-3/
+permalink: /posts/2016/05/cambodia-satellite/
 tags:
   - satellite
   - cambodia
