@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a lecturer and researcher at the faculty of Information Technology (IT), American University of Phnom Penh (AUPP). 
+I am a lecturer at the faculty of Information Technology (IT), American University of Phnom Penh (AUPP). 
 
-My interests including small satellite, system engineering, autonomous system, and STEM education.
+My research interests including small satellite, system engineering, autonomous system, and STEM education.
 
 Talks
 -----
