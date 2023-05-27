@@ -10,7 +10,7 @@ redirect_from:
 
 I am a lecturer at the faculty of Information Technology (IT), American University of Phnom Penh (AUPP). 
 
-My research interests including small satellite, system engineering, autonomous system, and STEM education.
+My interests including small satellite, system engineering, autonomous system, and STEM education.
 
 Talks
 -----
@@ -18,9 +18,16 @@ Talks
 2.	AUPP Pro Insight – Introduction Small Satellites and Their Applications, March 2022. [Link](https://morokotsakal.github.io/api-smallsat/)
 3.	ICT Summer Short Courses – Introduction to Robotics, August 2021. [Link](https://morokotsakal.github.io/intro-robotics/)
 
+Documents
+-----
+1. Leading a Robotics Team in University, December 2021. [Link](https://morokotsakal.github.io/robotics-se/)
+2. World Robotics Olympiad - Future Innovators, May, 2023. [Link](https://morokotsakal.github.io/wro-fi-kh/)
+
 Courses
 -----
-
+1. Introduction to 3D Printing. [Link](https://morokotsakal.github.io/intro-3d-printing/)
+2. Basics of Electronics/Arduino. (Link) [TBA]
+3. Project Management. (Link) [TBA]
 
 What's news?
 ------
