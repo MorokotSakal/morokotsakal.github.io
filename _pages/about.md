@@ -20,8 +20,8 @@ Talks
 
 Documents
 -----
-1. Leading a Robotics Team in University, December 2021. [Link](https://morokotsakal.github.io/robotics-se/)
-2. World Robotics Olympiad - Future Innovators, May, 2023. [Link](https://morokotsakal.github.io/wro-fi-kh/)
+1. World Robotics Olympiad - Future Innovators, May, 2023. [Link](https://morokotsakal.github.io/wro-fi-kh/)
+2. Leading a Robotics Team in University, December 2021. [Link](https://morokotsakal.github.io/robotics-se/)
 
 Courses
 -----
