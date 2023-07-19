@@ -62,4 +62,4 @@ Before I conclude, I want to express my deepest gratitude to everyone who has pl
 To the graduating class of AUPP High School - Foxcroft Academy, I extend my heartfelt congratulations and best wishes for a future filled with endless possibilities. 
 May your dreams soar high, and may your journey be filled with joy, purpose, and fulfillment. Thank you.
 
-<img src="../images/hs-graduate-2023.jpg" alt="High School Graduate">
+<img src = "https://github.com/MorokotSakal/morokotsakal.github.io/blob/212b21c041ad4dfdf624ded40dfa27ef00f1bf2d/images/hs-graduate-2023.jpg" >
