@@ -27,11 +27,17 @@ redirect_from:
 
 I am a lecturer at the faculty of Information Technology (IT), American University of Phnom Penh (AUPP). 
 
-My interests including small satellite, system engineering, autonomous system, and STEM education.
+My interests including small satellite and STEM education.
 
-## Education
-{% include minifeature_row id="feature_utohoku_me" type="left" %}
-{% include minifeature_row id="feature_utohoku_be" type="left" %}
+<!--## Education
+ {% include minifeature_row id="feature_utohoku_me" type="left" %}
+<style>
+  .feature-image {
+    max-width: 10px; /* Adjust the value as needed */
+    height: 10px;
+  }
+</style>
+{% include minifeature_row id="feature_utohoku_be" type="left" %} -->
 
 Talks
 -----
