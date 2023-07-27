@@ -36,22 +36,22 @@ My interests including small satellite and STEM education.
 {% include minifeature_row id="feature_utohoku_be" type="left" %} -->
 
 Talks
------
+-------------
 1.	Science Museum Space Seminar Season 2 - Lessons Learned from Coordinating a Small Satellite Project in Cambodia, January 2023. (Link)[TBA]
 2.	AUPP Pro Insight – Introduction Small Satellites and Their Applications, March 2022. [Link](https://morokotsakal.github.io/api-smallsat/)
 3.	ICT Summer Short Courses – Introduction to Robotics, August 2021. [Link](https://morokotsakal.github.io/intro-robotics/)
 
-Documents
------
+<!-- Documents
+---------
 1. World Robotics Olympiad - Future Innovators, May, 2023. [Link](https://morokotsakal.github.io/wro-fi-kh/)
-2. Leading a Robotics Team in University, December 2021. [Link](https://morokotsakal.github.io/robotics-se/)
+2. Leading a Robotics Team in University, December 2021. [Link](https://morokotsakal.github.io/robotics-se/) -->
 
-Courses
+<!-- Courses
 -----
 1. Introduction to 3D Printing. [Link](https://morokotsakal.github.io/intro-3d-printing/)
 2. Basics of Electronics/Arduino. (Link) [TBA]
-3. Project Management. (Link) [TBA]
+3. Project Management. (Link) [TBA] -->
 
-What's news?
+<!-- What's news?
 ------
-- 2022-04-16: Started hosting the personal site on github.io
+- 2022-04-16: Started hosting the personal site on github.io -->
