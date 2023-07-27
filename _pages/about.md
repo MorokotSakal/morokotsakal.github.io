@@ -41,6 +41,13 @@ Talks
 2.	AUPP Pro Insight – Introduction Small Satellites and Their Applications, March 2022. [Link](https://morokotsakal.github.io/api-smallsat/)
 3.	ICT Summer Short Courses – Introduction to Robotics, August 2021. [Link](https://morokotsakal.github.io/intro-robotics/)
 
+
+<!-- Research
+-------------
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %} -->
+
 <!-- Documents
 ---------
 1. World Robotics Olympiad - Future Innovators, May, 2023. [Link](https://morokotsakal.github.io/wro-fi-kh/)
