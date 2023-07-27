@@ -29,6 +29,8 @@ I am a lecturer at the faculty of Information Technology (IT), American Universi
 
 My interests including small satellite and STEM education.
 
+[CV](./../files/MorokotSakal-CV.pdf)
+
 <!-- ## Education
 {% include minifeature_row id="feature_utohoku_me" type="left" %}
 {% include minifeature_row id="feature_utohoku_be" type="left" %} -->
