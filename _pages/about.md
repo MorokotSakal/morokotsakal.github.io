@@ -5,20 +5,6 @@ excerpt: "About me"
 author_profile: true
 
 # Education
-feature_utohoku_me:
-  - image_path: https://dl.dropboxusercontent.com/s/kx2cffl3oo2iwac/utokyo.png?dl=0
-    alt: "UTohoku"
-    date: "2020"
-    title: 'M.E. in Aerospace Engineering, Tohoku University'
-    subtitle: "<i> Advisor: Prof. Toshinori Kuwahara </i>"
-    excerpt:  "Thesis: System Integration of Microsatellite RISESAT" 
-feature_utohoku_be:
-  - image_path: https://dl.dropboxusercontent.com/s/kx2cffl3oo2iwac/utokyo.png?dl=0
-    alt: "UTohoku"
-    date: "2018"
-    title: 'B.E. in Mechanical & Aerospace Engineering, Tohoku University'
-    subtitle: "<i> Advisor: Prof. Tetsushi Biwa </i>"
-    excerpt: "Thesis: TO ADDED" 
 
 redirect_from: 
   - /about/
@@ -26,8 +12,6 @@ redirect_from:
 ---
 
 I am a lecturer at the faculty of Information Technology (IT), American University of Phnom Penh (AUPP). 
-
-My interests including small satellite and STEM education.
 
 [CV](./../files/MorokotSakal-CV.pdf)
 
