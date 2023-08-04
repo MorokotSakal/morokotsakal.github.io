@@ -38,8 +38,8 @@ My interests including small satellite and STEM education.
 Talks
 -------------
 1.	Science Museum Space Seminar Season 2 - Lessons Learned from Coordinating a Small Satellite Project in Cambodia, January 2023. (Link)[TBA]
-2.	AUPP Pro Insight – Introduction Small Satellites and Their Applications, March 2022. [Link](https://morokotsakal.github.io/api-smallsat/)
-3.	ICT Summer Short Courses – Introduction to Robotics, August 2021. [Link](https://morokotsakal.github.io/intro-robotics/)
+2.	AUPP Pro Insight – Introduction Small Satellites and Their Applications, March 2022. [Link](https://morokotsakal.github.io/api-smallsat/API_SmallSatApplications.pdf)
+3.	ICT Summer Short Courses – Introduction to Robotics, August 2021. [Link](https://morokotsakal.github.io/talk-intro-robotics/introToRobotics.pdf)
 
 
 <!-- Research
