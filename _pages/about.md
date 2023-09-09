@@ -21,9 +21,10 @@ I am a lecturer at the faculty of Information Technology (IT), American Universi
 
 Talks
 -------------
-1.	Science Museum Space Seminar Season 2 - Lessons Learned from Coordinating a Small Satellite Project in Cambodia, January 2023. [Link](./../files/SmallSatProjInCambodia.pdf)
-2.	AUPP Pro Insight – Introduction Small Satellites and Their Applications, March 2022. [Link](https://morokotsakal.github.io/api-smallsat/API_SmallSatApplications.pdf)
-3.	ICT Summer Short Courses – Introduction to Robotics, August 2021. [Link](https://morokotsakal.github.io/talk-intro-robotics/introToRobotics.pdf)
+1. KAXA Space Engineering Webinar 2023 - Space Activities of Cambodia, September 2023. [LINK](https://docs.google.com/presentation/d/1W9cfaLSfQWDe2VnLi5zGH9V0C9Foj4bZ-AfD5QKtWUo/edit?usp=sharing)
+2. Science Museum Space Seminar Season 2 - Lessons Learned from Coordinating a Small Satellite Project in Cambodia, January 2023. [Link](./../files/SmallSatProjInCambodia.pdf)
+3. AUPP Pro Insight – Introduction Small Satellites and Their Applications, March 2022. [Link](https://morokotsakal.github.io/api-smallsat/API_SmallSatApplications.pdf)
+4. ICT Summer Short Courses – Introduction to Robotics, August 2021. [Link](https://morokotsakal.github.io/talk-intro-robotics/introToRobotics.pdf)
 
 
 <!-- Research
